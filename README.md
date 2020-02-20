@@ -11,4 +11,6 @@
 
 
 
-Basic Example: https://www.freecodecamp.org/news/content/images/2020/01/social-media-cropped-min.gif
+[Basic Example](https://www.freecodecamp.org/news/content/images/2020/01/social-media-cropped-min.gif)
+
+[Idea taken from this post](https://www.freecodecamp.org/news/5-react-projects-you-need-in-your-portfolio/)
