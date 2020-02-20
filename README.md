@@ -8,3 +8,7 @@
 * as well as user authentication
 * profiles for each user
 * follow user
+
+
+
+Basic Example: https://www.freecodecamp.org/news/content/images/2020/01/social-media-cropped-min.gif
